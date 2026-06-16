@@ -7,6 +7,7 @@
         "Finished meta-llama/Llama-2-7b-hf, vllm (Monday, June 15, 2026, 10:23PM CDT)",
         "Finished meta-llama/Llama-2-13b-hf, llama.cpp (Monday, June 15, 2026, 10:24PM CDT)",
         "Finished meta-llama/Llama-2-13b-hf, vllm (Monday, June 15, 2026, 10:31PM CDT)",
-        "Finished Qwen/Qwen2.5-Coder-32B, llama.cpp (Monday, June 15, 2026, 11:04PM CDT)"
+        "Finished Qwen/Qwen2.5-Coder-32B, llama.cpp (Monday, June 15, 2026, 11:04PM CDT)",
+        "Finished Qwen/Qwen2.5-Coder-32B, vllm (Monday, June 15, 2026, 11:22PM CDT)"
     ]
 }
