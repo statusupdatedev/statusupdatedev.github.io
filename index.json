@@ -1,3 +1,11 @@
 {
-    "exploration": " (Monday, June 15, 2026, 10:17PM CDT)"
+    "exploration": [
+        " (Monday, June 15, 2026, 10:17PM CDT)",
+        "Finished TinyLlama/TinyLlama-1.1B-Chat-v1.0, llama.cpp (Monday, June 15, 2026, 10:17PM CDT)",
+        "Finished TinyLlama/TinyLlama-1.1B-Chat-v1.0, vllm (Monday, June 15, 2026, 10:18PM CDT)",
+        "Finished meta-llama/Llama-2-7b-hf, llama.cpp (Monday, June 15, 2026, 10:19PM CDT)",
+        "Finished meta-llama/Llama-2-7b-hf, vllm (Monday, June 15, 2026, 10:23PM CDT)",
+        "Finished meta-llama/Llama-2-13b-hf, llama.cpp (Monday, June 15, 2026, 10:24PM CDT)",
+        "Finished meta-llama/Llama-2-13b-hf, vllm (Monday, June 15, 2026, 10:31PM CDT)"
+    ]
 }
