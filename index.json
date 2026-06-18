@@ -1,13 +1,3 @@
 {
-    "exploration": [
-        " (Monday, June 15, 2026, 10:17PM CDT)",
-        "Finished TinyLlama/TinyLlama-1.1B-Chat-v1.0, llama.cpp (Monday, June 15, 2026, 10:17PM CDT)",
-        "Finished TinyLlama/TinyLlama-1.1B-Chat-v1.0, vllm (Monday, June 15, 2026, 10:18PM CDT)",
-        "Finished meta-llama/Llama-2-7b-hf, llama.cpp (Monday, June 15, 2026, 10:19PM CDT)",
-        "Finished meta-llama/Llama-2-7b-hf, vllm (Monday, June 15, 2026, 10:23PM CDT)",
-        "Finished meta-llama/Llama-2-13b-hf, llama.cpp (Monday, June 15, 2026, 10:24PM CDT)",
-        "Finished meta-llama/Llama-2-13b-hf, vllm (Monday, June 15, 2026, 10:31PM CDT)",
-        "Finished Qwen/Qwen2.5-Coder-32B, llama.cpp (Monday, June 15, 2026, 11:04PM CDT)",
-        "Finished Qwen/Qwen2.5-Coder-32B, vllm (Monday, June 15, 2026, 11:22PM CDT)"
-    ]
+    "exploration": " (Thursday, June 18, 2026, 6:55PM CDT)"
 }
