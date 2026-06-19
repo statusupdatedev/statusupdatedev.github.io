@@ -1,13 +1,3 @@
 {
-    "exploration": [
-        " (Thursday, June 18, 2026, 7:26PM CDT)",
-        "Running utilization experiment: 0/8 jobs (Thursday, June 18, 2026, 7:26PM CDT)",
-        "Finished utilization TinyLlama/TinyLlama-1.1B-Chat-v1.0, llama.cpp, 1/8 (12.5%) (Thursday, June 18, 2026, 7:27PM CDT)",
-        "Finished utilization TinyLlama/TinyLlama-1.1B-Chat-v1.0, vllm, 2/8 (25.0%) (Thursday, June 18, 2026, 7:28PM CDT)",
-        "Finished utilization meta-llama/Llama-2-7b-hf, llama.cpp, 3/8 (37.5%) (Thursday, June 18, 2026, 7:28PM CDT)",
-        "Finished utilization meta-llama/Llama-2-7b-hf, vllm, 4/8 (50.0%) (Thursday, June 18, 2026, 7:31PM CDT)",
-        "Finished utilization meta-llama/Llama-2-13b-hf, llama.cpp, 5/8 (62.5%) (Thursday, June 18, 2026, 7:31PM CDT)",
-        "Finished utilization meta-llama/Llama-2-13b-hf, vllm, 6/8 (75.0%) (Thursday, June 18, 2026, 7:36PM CDT)",
-        "Finished utilization Qwen/Qwen2.5-Coder-32B, llama.cpp, 7/8 (87.5%) (Thursday, June 18, 2026, 7:40PM CDT)"
-    ]
+    "exploration": " (Thursday, June 18, 2026, 7:57PM CDT)"
 }
