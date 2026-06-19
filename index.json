@@ -1,3 +1,11 @@
 {
-    "exploration": " (Thursday, June 18, 2026, 8:25PM CDT)"
+    "exploration": [
+        " (Thursday, June 18, 2026, 8:25PM CDT)",
+        "Running utilization experiment: 0/8 jobs (Thursday, June 18, 2026, 8:25PM CDT)",
+        "Program finished: error (Thursday, June 18, 2026, 8:25PM CDT)"
+    ],
+    "test": [
+        " (Thursday, June 18, 2026, 8:38PM CDT)",
+        "Message 0 (Thursday, June 18, 2026, 8:38PM CDT)"
+    ]
 }
