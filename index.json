@@ -5,7 +5,9 @@
         "Finished utilization meta-llama/Llama-2-7b-hf, llama.cpp, 3/8 (37.5%) (Thursday, June 25, 2026, 8:22AM CDT)",
         "Finished utilization meta-llama/Llama-2-7b-hf, vllm, 4/8 (50.0%) (Thursday, June 25, 2026, 8:26AM CDT)",
         "Finished utilization meta-llama/Llama-2-13b-hf, llama.cpp, 5/8 (62.5%) (Thursday, June 25, 2026, 8:26AM CDT)",
-        "Finished utilization meta-llama/Llama-2-13b-hf, vllm, 6/8 (75.0%) (Thursday, June 25, 2026, 8:32AM CDT)"
+        "Finished utilization meta-llama/Llama-2-13b-hf, vllm, 6/8 (75.0%) (Thursday, June 25, 2026, 8:32AM CDT)",
+        "Finished utilization Qwen/Qwen2.5-Coder-32B, llama.cpp, 7/8 (87.5%) (Thursday, June 25, 2026, 8:37AM CDT)",
+        "Finished utilization Qwen/Qwen2.5-Coder-32B, vllm, 8/8 (100.0%) (Thursday, June 25, 2026, 8:50AM CDT)"
     ],
     "test": [
         " (Thursday, June 18, 2026, 8:48PM CDT)",
